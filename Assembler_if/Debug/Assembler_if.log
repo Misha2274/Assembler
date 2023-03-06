@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VSprojects\Assembler_if\Assembler_if\Source.cpp(147): warning C4405: bound: идентификатор является зарезервированным словом
+D:\VSprojects\Assembler_if\Assembler_if\Source.cpp(165,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Assembler_if.vcxproj -> D:\VSprojects\Assembler_if\Debug\Assembler_if.exe
